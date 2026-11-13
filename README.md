@@ -14,8 +14,7 @@ Partimos del `main.cpp` del profesor y completamos las partes pendientes. Dejamo
 
 - `main.cpp`: programa completo con comentarios por partes.
 - `README.md`: explicación del trabajo e instrucciones para ejecutarlo.
-- `Defensa_Practica_2.docx`: guía de apoyo para preparar la presentación entre los dos integrantes.
-
+- 
 ## Cómo ejecutarlo
 
 Se necesita un compilador compatible con C++17. Desde la carpeta donde está `main.cpp`, se compila con:
