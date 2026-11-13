@@ -2,7 +2,7 @@
 
 **Lenguajes y Paradigmas de la Computación — Universidad EAFIT**
 
-**Integrantes:** Miguel Salazar y Juan Sebastián.
+**Integrantes:** Miguel Salazar y Juan Sebastián Velasquez.
 
 ## ¿Qué hace el programa?
 
